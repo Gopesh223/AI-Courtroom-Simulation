@@ -10,13 +10,13 @@ An interactive courtroom trial simulation powered by Streamlit and Groq's LLaMA 
 
 Dynamic Phases: Includes phases like:
 
-Opening Statements
+- Opening Statements
 
-Witness Interrogation & Argumentation
+- Witness Interrogation & Argumentation
 
-Closing Statements
+- Closing Statements
 
-Judge’s Final Ruling
+- Judge’s Final Ruling
 
 Context Trimming: Keeps interactions within token limits while retaining relevant context.
 

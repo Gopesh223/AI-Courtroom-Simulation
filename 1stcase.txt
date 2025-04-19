@@ -1,0 +1,119 @@
+[Opening Statements] Plaintiff: Your Honor, esteemed members of the court, my name is [Appellant Company's Representative], and I appear on behalf of the appellant company, which is a renowned civil and electrical works company in India. We are here today to seek relief from the draconian arbitration clause imposed upon us by the respondent, Punjab State Water Supply Sewerage Board.
+
+We were awarded the tender for the extension and augmentation of water supply, sewerage scheme, pumping station, and sewerage treatment plant for various towns in 2008. The tender document, which forms part of the formal agreement, contains an arbitration clause, specifically Clause 25 (viii), that we take issue with.
+
+This clause is unfair and one-sided, requiring us to deposit 10% of the amount claimed in each dispute, which would be forfeited if the award is not in our favor. This is a significant burden on our company, and we believe it violates our right to access justice. We have similar contracts with the respondent, and we have sought the waiver of this 10% deposit fee in those matters, but our requests have fallen on deaf ears.
+
+We filed a writ petition, Civil Writ Petition No. 1891, in response to the respondent's inaction, and now we come before this honorable court seeking relief from this unfair arbitration clause. We request that the court declare this clause as unconscionable and unenforceable. We also seek a direction to the respondent to waive the 10% deposit fee and to appoint an arbitrator to resolve our disputes in a fair and equitable manner.
+
+We believe that it is the duty of this court to ensure that justice is accessible to all, and that no party is unfairly restricted from seeking redressal due to arbitrary and oppressive contractual terms. We are confident that the court will see the merits of our case and provide us with the relief we seek. Thank you, Your Honor.
+[Opening Statements] Prosecution Lawyer: Thank you, Your Honor. I'd like to begin by stating that the defense's argument is based on a flawed assumption that the arbitration clause in question is fair and reasonable. However, a closer examination of the facts reveals that this clause is, in fact, a tool designed to discourage the appellant from seeking legitimate redressal.
+
+The arbitration clause, specifically Clause 25 (viii), creates an unfair burden on the appellant by requiring a 10% deposit of the amount claimed, which would be forfeited if the award is not in their favor. This is an exorbitant amount, especially considering the scale of the projects involved. It's apparent that this clause was inserted to intimidate the appellant and prevent them from exercising their contractual rights.
+
+Moreover, the respondent's failure to respond to the appellant's request for waiver of the deposit fee in similar contracts suggests a pattern of unfair dealing. It's evident that the respondent is attempting to exploit its position of power to the detriment of the appellant.
+
+I'd like to highlight that the arbitration clause in question is not only one-sided but also violative of the appellant's right to access justice. The Constitution guarantees every citizen the right to equality before the law and the right to seek judicial remedy. By imposing an unfair burden on the appellant, the respondent is, in effect, denying them this fundamental right.
+
+I request the court to carefully consider the facts of the case and the implications of upholding this draconian arbitration clause. I urge the court to declare this clause as unconscionable and unenforceable, and to direct the respondent to waive the 10% deposit fee and appoint an arbitrator to resolve the disputes in a fair and equitable manner.
+[Opening Statements] Defendant: Your Honor, esteemed members of the court, I appear on behalf of the respondent, Punjab State Water Supply Sewerage Board. We understand the appellant's concerns, but we believe that the arbitration clause in question is reasonable, fair, and serves a legitimate purpose.
+
+Firstly, we'd like to emphasize that the tender document, including the arbitration clause, was thoroughly scrutinized and accepted by the appellant before the formal agreement was signed. The appellant was well aware of the terms and conditions, including Clause 25 (viii), and chose to participate in the tender process despite this clause.
+
+The purpose of the 10% deposit requirement is not to intimidate or unfairly burden the appellant, but to ensure that only genuine claims are brought forth. This mechanism helps to prevent frivolous claims and encourages parties to carefully consider the merits of their disputes before invoking arbitration. We believe this clause promotes responsible and diligent behavior, which is essential in large-scale infrastructure projects like the ones involved in this case.
+
+Regarding the appellant's request for a waiver of the deposit fee in similar contracts, we'd like to clarify that each contract is evaluated on its own merits, and we cannot simply waive the fee without proper justification. We have followed the agreed-upon contractual terms, and the appellant is trying to renege on their obligations after the fact.
+
+We disagree with the appellant's assertion that the arbitration clause violates their right to access justice. The Constitution guarantees the right to equality before the law, but it does not guarantee a right to avoid contractual obligations or ignore the consequences of one's actions. The appellant willingly entered into the contract, and now they must abide by its terms.
+
+In conclusion, we urge the court to recognize the importance of upholding contractual agreements and respecting the autonomy of parties to negotiate and agree upon terms. We believe the arbitration clause is fair, reasonable, and serves a legitimate purpose. We request that the court dismiss the appellant's petition and uphold the contractual terms as agreed upon by both parties. Thank you, Your Honor.
+[Opening Statements] Defense Lawyer: Thank you, Your Honor. I'd like to respond to the plaintiff's arguments and address the concerns raised by the prosecution lawyer.
+
+Firstly, I'd like to emphasize that the Punjab State Water Supply Sewerage Board, as a government entity, has a duty to act in a fair and transparent manner. The tender process, including the arbitration clause, was designed to ensure that only capable and serious bidders participated in the project. The 10% deposit requirement is a reasonable measure to prevent frivolous claims and ensure that the appellant thinks carefully before invoking arbitration.
+
+I disagree with the prosecution lawyer's assertion that the arbitration clause is one-sided or unfair. The clause applies equally to both parties and is not unique to the appellant. In fact, the appellant has similar contracts with us, and we have not received any complaints about the clause being unfair or restrictive.
+
+Moreover, the appellant has not provided any evidence to suggest that the 10% deposit fee is an undue burden or that it will prevent them from seeking legitimate redressal. The appellant is a renowned civil and electrical works company in India, and we expect them to conduct their business in a responsible and diligent manner.
+
+I'd like to highlight that the appellant has chosen to participate in the tender process, and by doing so, they have accepted the terms and conditions, including the arbitration clause. We cannot allow the appellant to renege on their obligations or cherry-pick the terms they find favorable.
+
+Regarding the appellant's request for a waiver of the deposit fee, we have evaluated each contract on its own merits, and we cannot simply waive the fee without proper justification. The appellant's request for a waiver is an attempt to renege on their contractual obligations, and we cannot accommodate such a request.
+
+In conclusion, I urge the court to recognize the importance of upholding contractual agreements and respecting the autonomy of parties to negotiate and agree upon terms. We believe the arbitration clause is fair, reasonable, and serves a legitimate purpose. I request that the court dismiss the appellant's petition and uphold the contractual terms as agreed upon by both parties. Thank you, Your Honor.
+[Witness Interrogation] Prosecution Lawyer: Expert in Arbitration Law, thank you for taking the stand today. I'd like to ask you a question regarding the arbitration clause in question, specifically Clause 25 (viii).
+
+Can you explain to the court how common it is for parties to include a deposit requirement in arbitration clauses, like the 10% deposit requirement in this case, and whether such clauses are typically considered one-sided or unfair in nature?
+[Witness Interrogation] Expert in Arbitration Law: Thank you, Your Honor. In response to the prosecution lawyer's question, I'd like to provide some context on the prevalence of deposit requirements in arbitration clauses.
+
+In general, it is not uncommon for parties to include deposit requirements or similar mechanisms in arbitration clauses to ensure that only genuine claims are brought forth. The purpose of such clauses is to discourage frivolous claims, promote responsible behavior, and encourage parties to carefully consider the merits of their disputes before invoking arbitration.
+
+However, I must note that the inclusion of a deposit requirement can be a contentious issue, and its fairness can depend on various factors, such as the specific circumstances of the contract, the nature of the dispute, and the relative bargaining power of the parties.
+
+In my expert opinion, a 10% deposit requirement, as in this case, is not unusual, but it can be considered relatively high. While it may serve a legitimate purpose, it can also be seen as a potential barrier to access to justice, particularly for smaller or less financially robust parties.
+
+Regarding the fairness aspect, I would say that such clauses can be considered one-sided if they disproportionately favor one party over the other. In this case, the clause applies equally to both parties, but the respondent's position as a government entity and the appellant's position as a contractor may create a power imbalance that needs to be considered.
+
+It is essential to weigh the purpose and effect of the clause against the principles of fairness, equality, and access to justice. I believe that the court should carefully examine the specific circumstances of this case and consider whether the arbitration clause is reasonable, fair, and serves a legitimate purpose.
+[Witness Interrogation] Defense Lawyer: Thank you, Your Honor. I'd like to clarify a point with the Expert in Arbitration Law. You mentioned that a 10% deposit requirement can be considered relatively high, and it may be seen as a potential barrier to access to justice for smaller or less financially robust parties. However, in this case, we have a large and renowned civil and electrical works company as the appellant. Wouldn't you agree that the appellant's financial capabilities and experience make it unlikely that the 10% deposit requirement would prevent them from seeking legitimate redressal?
+
+(Please respond with the Expert in Arbitration Law's answer.)
+[Witness Interrogation] Expert in Arbitration Law: Yes, I would agree that the appellant's financial capabilities and experience make it less likely that the 10% deposit requirement would prevent them from seeking legitimate redressal. In fact, as a large and renowned company, they may have the necessary resources to absorb the deposit amount without significant hardship.
+
+However, as an expert in arbitration law, I must emphasize that the fairness and reasonableness of the clause should be evaluated based on its potential impact on all parties, not just the appellant in this specific case. The court should consider whether the clause could potentially deter other parties, including smaller or less financially robust entities, from seeking legitimate redressal.
+
+In this context, it's essential to weigh the purpose and effect of the clause against the principles of fairness, equality, and access to justice. While the appellant's financial capabilities may mitigate the impact of the clause in this particular case, the court should still carefully examine the clause's potential effect on other parties and consider whether it serves a legitimate purpose.
+[Witness Interrogation] Prosecution Lawyer: Contract Law Expert, I'd like to ask a question regarding the tender process and the contractual agreement between the parties. Can you explain to the court whether a bidder, such as the appellant, is free to negotiate or modify the terms and conditions of the tender, including the arbitration clause, after submitting their bid and being awarded the contract?
+[Witness Interrogation] Contract Law Expert: As a Contract Law Expert, I would respond:
+
+In the context of a tender process, it is generally understood that the bidder has accepted the terms and conditions of the tender, including the arbitration clause, when they submit their bid. The tender process is typically designed to ensure that all bidders are bound by the same terms and conditions, and that the contracting authority, in this case, the Punjab State Water Supply Sewerage Board, can evaluate bids on a level playing field.
+
+However, it is possible for a bidder to negotiate or modify the terms and conditions of the tender, including the arbitration clause, after submitting their bid and being awarded the contract, but only if the contracting authority agrees to such modifications. This is often the case when the bidder has submitted a conditional bid or has raised specific concerns about certain terms and conditions.
+
+In this particular case, it appears that the appellant did not negotiate or modify the terms and conditions of the tender, including the arbitration clause, after being awarded the contract. Instead, they accepted the terms and conditions as they were.
+
+It is worth noting that, as a matter of contract law, parties are generally bound by the terms and conditions of a contract they have voluntarily entered into. However, the court may consider whether the terms and conditions are unfair or unreasonable, particularly in the context of a contract of adhesion, where one party has limited bargaining power.
+
+In this case, the court may need to consider whether the arbitration clause, including the 10% deposit requirement, is an unfair or unreasonable term, and whether it should be enforced as part of the contractual agreement between the parties.
+[Witness Interrogation] Defense Lawyer: Thank you, Your Honor. I'd like to ask a follow-up question to the Contract Law Expert.
+
+Contract Law Expert, in your testimony, you mentioned that the appellant did not negotiate or modify the terms and conditions of the tender, including the arbitration clause, after being awarded the contract. You also stated that, as a matter of contract law, parties are generally bound by the terms and conditions of a contract they have voluntarily entered into.
+
+Could you clarify whether, in your opinion, the appellant's decision to accept the terms and conditions of the tender, including the arbitration clause, without negotiation or modification, suggests that they have implicitly accepted the reasonableness and fairness of the clause?
+[Witness Interrogation] Contract Law Expert: As a Contract Law Expert, I would respond:
+
+In my opinion, the appellant's decision to accept the terms and conditions of the tender, including the arbitration clause, without negotiation or modification, does suggest that they have implicitly accepted the reasonableness and fairness of the clause. By voluntarily entering into the contract, the appellant has demonstrated their assent to the terms and conditions, including the arbitration clause.
+
+However, it's essential to consider the context of the contract and the relative bargaining power of the parties. As I mentioned earlier, the appellant may have had limited bargaining power as a contractor dealing with a government entity. In such cases, the court may need to examine whether the appellant's implicit acceptance of the arbitration clause was truly voluntary or if they were effectively forced to accept the terms due to their limited bargaining power.
+
+Furthermore, even if the appellant has implicitly accepted the arbitration clause, the court still has a role to play in ensuring that the clause is reasonable, fair, and serves a legitimate purpose. The court must consider the interests of both parties and weigh the potential impact of the clause on access to justice and the principles of fairness and equality.
+[Closing Statements] Prosecution Lawyer: Your Honor, I'd like to summarize the key points of our case against the defendant. The appellant, a large and renowned civil and electrical works company, entered into a contract with the Punjab State Water Supply Sewerage Board for the extension and augmentation of water supply, sewerage scheme, pumping station, and sewerage treatment plant. The contract included an arbitration clause, which required the party invoking arbitration to specify the dispute, furnish a deposit-at-call for 10% of the amount claimed, and provide calculations stating the amount claimed under each claim.
+
+The appellant has challenged the arbitration clause, arguing that it is unfair and unreasonable. However, as the Contract Law Expert has testified, the appellant voluntarily entered into the contract and implicitly accepted the terms and conditions, including the arbitration clause. The appellant did not negotiate or modify the terms and conditions of the tender after being awarded the contract.
+
+Furthermore, the Expert in Arbitration Law has acknowledged that the 10% deposit requirement may not be a significant burden for the appellant, given their financial capabilities and experience. While the court should consider the potential impact of the clause on access to justice and fairness, the evidence suggests that the appellant is not unduly burdened by the deposit requirement.
+
+In light of these facts, we argue that the arbitration clause, including the 10% deposit requirement, is a reasonable and fair term of the contract. The appellant's implicit acceptance of the clause and their failure to negotiate or modify the terms and conditions of the tender support this conclusion.
+
+We request that the court uphold the arbitration clause and reject the appellant's claims that it is unfair and unreasonable.
+[Closing Statements] Defense Lawyer: Your Honor, I'd like to address the prosecution's summary and argue that it misrepresents the key points of this case. While it is true that the appellant voluntarily entered into the contract, it is crucial to consider the power dynamics at play. As the Contract Law Expert noted, the appellant may have had limited bargaining power as a contractor dealing with a government entity. This raises concerns about whether the appellant's implicit acceptance of the arbitration clause was truly voluntary.
+
+Furthermore, the prosecution's claim that the 10% deposit requirement is not a significant burden for the appellant oversimplifies the issue. The Expert in Arbitration Law's testimony only acknowledged that the deposit requirement may not be a significant burden for the appellant in terms of their financial capabilities. However, it is essential to consider the broader implications of this clause on access to justice and fairness.
+
+The arbitration clause, including the 10% deposit requirement, can be seen as a barrier to seeking arbitration, particularly for smaller or less financially capable contractors. By upholding this clause, the court risks creating a precedent that favors larger, more powerful contractors over smaller ones, undermining the principles of fairness and equality.
+
+In conclusion, I urge the court to carefully consider the implications of enforcing this arbitration clause and to reject the prosecution's argument that it is reasonable and fair. Instead, I request that the court declare the arbitration clause, including the 10% deposit requirement, to be unfair and unreasonable, and order its modification or removal to ensure that all parties have equal access to justice.
+[Judge’s Ruling] Judge: After careful consideration of the arguments presented by both parties, I find it necessary to address the key concerns raised in this case.
+
+Firstly, I agree with the Contract Law Expert that the appellant's decision to accept the terms and conditions of the tender, including the arbitration clause, without negotiation or modification, does suggest that they have implicitly accepted the reasonableness and fairness of the clause. However, I also acknowledge the Expert's caveat that the court must consider the context of the contract and the relative bargaining power of the parties.
+
+In this case, it is evident that the appellant, as a contractor, may have had limited bargaining power when dealing with a government entity. This power imbalance could have potentially coerced the appellant into accepting the terms and conditions of the tender, including the arbitration clause, without fully considering its implications.
+
+Furthermore, I find the prosecution's assertion that the 10% deposit requirement is not a significant burden for the appellant to be an oversimplification of the issue. While it is true that the appellant may have the financial capabilities to meet this requirement, the broader implications of this clause on access to justice and fairness cannot be ignored.
+
+The defense has raised a compelling argument that the arbitration clause, including the 10% deposit requirement, can be seen as a barrier to seeking arbitration, particularly for smaller or less financially capable contractors. This raises serious concerns about the fairness and equality of the arbitration process.
+
+In light of these considerations, I find that the arbitration clause, including the 10% deposit requirement, is unreasonable and unfair. The court cannot uphold a clause that potentially creates a barrier to access to justice and undermines the principles of fairness and equality.
+
+Therefore, I rule in favor of the appellant and declare the arbitration clause, including the 10% deposit requirement, to be unfair and unreasonable. I order the modification or removal of this clause to ensure that all parties have equal access to justice.
+
+The court finds in favor of the appellant.
